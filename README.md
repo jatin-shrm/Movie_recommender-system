@@ -1,0 +1,1 @@
+This is Movie Recommender Project and in this cosine simmilarity is used
